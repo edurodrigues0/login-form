@@ -15,3 +15,7 @@ Rode o comando para instalar todas as dependências do projeto.
 
 Rode o comando em ambiente de desenvolvedor
 Abra [http://localhost:3000](http://localhost:3000) em seu browser para ver o projeto
+
+### Video
+
+https://user-images.githubusercontent.com/69876061/185475661-5af06f18-8e04-4946-9fe3-1370c9aace77.mp4
